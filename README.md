@@ -42,3 +42,5 @@ As shown in the configuration capture below, navigating to the individual user p
 > * **Scope:** `Azure subscription 1` (Subscription Level)
 > * **Assigned Role:** `Contributor` (Provides full access to manage all resources, but does not allow assigning roles in Azure RBAC).
 > * **Assigned To:** Explicitly mapped or via Group (`B18_G2`).
+### Visual Reference:
+![Azure Rights Check Method 3](./Snaps/AzRights%20Method%203.png)
